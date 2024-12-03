@@ -1,0 +1,6 @@
+https://github.com/lineageos-infra/updater/blob/be5a3dd4576fe15a86e52e307e8823612b9224cc/app.py#L8
+https://github.com/OperationCode/resources_api/blob/a9e870224ca5b4a55140c993ec45c460b65d79df/run.py#L4
+https://github.com/AICoE/elyra-aidevsecops-tutorial/blob/abb616cb2d2a7d4d485006a0fdca3717243e090f/wsgi.py#L35
+Gauge - https://github.com/cznewt/nasa-swpc-exporter/blob/4cc2a5b92a36aa01ea5feafbfe71aedd0733a329/swpc.py#L5
+push - gateway https://github.com/project-koku/koku-daily/blob/91386858767bdd42b6749917ac21feb97ef82ac5/job.py#L10
+start http server https://github.com/ssbostan/netmeter-exporter/blob/073510cdb65955c5c999499806b0c252aff566ae/app.py#L4
